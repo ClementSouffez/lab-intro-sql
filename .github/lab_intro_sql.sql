@@ -9,9 +9,9 @@ SELECT * FROM customer;
 
 -- 3-Get film titles
 
-SELECT*
-from film;
-where title;
+SELECT title
+from film
+
 
 
 -- 4 -Get unique list of film languages under the alias language. Note that we are not asking 
